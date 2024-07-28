@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ContaTeste {
 
 	public static void main(String[] args) {
-		Conta conta1 = new Conta("Pedro", 5000);
+		Conta conta1 = new Conta("Pedro", 2700);
 		Conta conta2 = new Conta("João", -27);
 
 		conta1.imprime();
